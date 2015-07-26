@@ -8,7 +8,7 @@ grunt test
 grunt server
 
 # add new controller
-yo angular:controller header
+yo angular:controller contact
 
 # angular-yo
 
