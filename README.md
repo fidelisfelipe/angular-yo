@@ -7,6 +7,9 @@ yo angular
 grunt test
 grunt server
 
+# add new controller
+yo angular:controller header
+
 # angular-yo
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
